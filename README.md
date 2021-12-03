@@ -1,3 +1,3 @@
 # Batman-Forever
 Projeto escudo do Batman!
-Cores amarelo e preto.
+Nas cores amarelo e preto.
